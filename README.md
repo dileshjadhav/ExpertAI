@@ -1,5 +1,5 @@
 # ExpertAI
-# Online Doubt Cleaner Applications.
+# Online doubt-clearing  Applications.
 This appllications is Devloped by using JAVASCRIPT,NODEJS,EXPRESSJS,MONGODB Frameworks.
 # This Applications has following Functionalities:
 1)User Regstration=>Login=>Get Expert available on websites=>Select required sections=>Book Appointment=>Send direct message to admin=>Check status=>Logout.
